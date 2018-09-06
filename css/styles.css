@@ -10,3 +10,17 @@ h2{
 body{
   background-color: #34495e;
 }
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  color: #ffffff
+}
