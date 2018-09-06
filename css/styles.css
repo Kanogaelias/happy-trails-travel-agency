@@ -3,22 +3,20 @@
   color: #f7325e;
 }
 
-h2{
-  color: #8470ff;
-}
-
 body{
-  background-color: #34495e;
+  background-color:    #4a235a;
+  background-image: url('africa-animal-animals-417142.jpg');
+
 }
 
-ul{
+.unordered-intro{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-li{
+.home-links{
   float: left;
 }
 
@@ -27,4 +25,18 @@ li a{
   text-align: center;
   padding: 14px 16px;
   color: #ffffff
+}
+   
+.tropical{
+  color: #7dc410;
+  font-family: fantasy;
+}
+
+.popular{
+  color:  #3999DC;
+  font-family: sans-serif;
+}
+
+.destinations-p{
+  color: white;
 }
