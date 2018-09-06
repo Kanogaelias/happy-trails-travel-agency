@@ -20,6 +20,10 @@ ul{
 
 li{
   float: left;
+}
+
+li a{
+  float: left;
   text-align: center;
   padding: 14px 16px;
   color: #ffffff
